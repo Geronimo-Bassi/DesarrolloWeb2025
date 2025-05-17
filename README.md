@@ -8,6 +8,6 @@
 
 Link noticia : https://www.lanacion.com.ar/tecnologia/cinco-funciones-ocultas-de-android-que-te-facilitaran-la-vida-nid16052025/
 
-Link Pages : https://geronimo-bassi.github.io/DesarroloWeb2025/
+Link Pages : https://geronimo-bassi.github.io/DesarrolloWeb2025/
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
