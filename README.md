@@ -5,7 +5,8 @@
 - Clase 3: Form de datos  
 - Clase 4: Noticia CSS  
 - Clase 5: Noticia CSS Responsive
-
+- Clase 6: Noticia CSS Flexbox
+- Clase 8: Ejercicios Javascript
 
 Link noticia : https://www.lanacion.com.ar/tecnologia/cinco-funciones-ocultas-de-android-que-te-facilitaran-la-vida-nid16052025/
 
