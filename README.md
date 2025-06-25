@@ -8,6 +8,8 @@
 - Clase 6: Noticia CSS Flexbox
 - Clase 8: Ejercicios Javascript
 - Clase 9: Validacion de datos javascript en formulario
+
+
 Link noticia : https://www.lanacion.com.ar/tecnologia/cinco-funciones-ocultas-de-android-que-te-facilitaran-la-vida-nid16052025/
 
 Link Pages : https://geronimo-bassi.github.io/DesarrolloWeb2025/
