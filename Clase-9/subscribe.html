@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
+    <nav>
+                <div class="nav-izq">
+                    <span><img class="icon" src="img/menu.png" alt="menu navbar"/></span>
+                    <span>SECCIONES </span>
+                    <span><img class="icon" src="img/search.png" alt="lupa navbar"/></span>
+                </div>
+                <span><a href="https://www.lanacion.com.ar"><img src="img/la-nacion.jpg" alt="logo"/></a></span>
+                <div class="nav-der">
+                    <span><img class="icon" src="img/bell.png " alt="Notificaciones"></span>
+                    <button>iniciar sesión</button>
+                    <a href= "subscribe.html">
+                        <button>Suscribite</button>
+                    </a>
+                    
+                </div>
+    </nav>
+              <form action="" class="formulario" id="formulariosub">
+                <h4 id="titulo-formulario">FORMULARIO DE SUSCRIPCIÓN.</h4>
+                <div class="tabla-formulario">
+                    <div class="columna1" id="datos__usuario">
+                        <h4>Datos Personales</h4>
+                        <label for="nombrecompleto">Nombre completo</label>
+                        <input type="text" id="nombrecompleto" class="formulario__input" name="nombrecompleto" />
+                        <small class="error" id="error-nombre"></small>
+
+                        <label for="edad">Edad</label>
+                        <input type="number" id="edad" class="formulario__input" name="edad" />
+                        <small class="error" id="error-edad"></small>
+
+                        <label for="telefono">Teléfono</label>
+                        <input type="text" id="telefono" class="formulario__input" name="telefono" />
+                        <small class="error" id="error-telefono"></small>
+
+                        <label for="direccion">Dirección</label>
+                        <input type="text" id="direccion" class="formulario__input" name="direccion" />
+                        <small class="error" id="error-direccion"></small>
+
+
+                        <label for="ciudad">Ciudad</label>
+                        <input type="text" id="ciudad" class="formulario__input" name="ciudad" />
+                        <small class="error" id="error-ciudad"></small>
+
+                        <label for="cp">Código Postal</label>
+                        <input type="text" id="cp" class="formulario__input" name="cp" />
+                        <small class="error" id="error-cp"></small>
+
+
+                        <label for="dni">DNI</label>
+                        <input type="text" class="formulario__input" id="dni" name="dni" />
+                        <small class="error" id="error-dni"></small>
+                    </div>
+
+                    <div class="columna2">
+                        <h4>Datos del usuarios</h4>
+                        <label for="email">Email</label>
+                        <input type="email" id="email" class="formulario__input" name="email" />
+                        <small class="error" id="error-email"></small>
+
+                        <label for="contraseña">Contraseña</label>
+                        <input type="password" id="contraseña" class="formulario__input" name="contraseña" />
+                        <small class="error" id="error-contraseña"></small>
+
+
+                        <label for="repcontraseña">Repetir contraseña</label>
+                        <input type="password" id="repcontraseña" class="formulario__input" name="repcontraseña" />
+                        <small class="error" id="error-repcontraseña"></small>
+                    </div>
+                    
+                </div>
+                
+                <button type="submit" class="formulario__btn">Enviar</button>
+            </form>
+            
+
+    
+    <footer>
+    
+
+    <div class="footer-column">
+        <h4>Secciones</h4>
+        <ul> 
+            <li>Economía</li>
+            <li>Sociedad</li>
+            <li>Deportes</li>
+            <li>Espectáculos</li>
+            <li>LN+</li>
+        </ul>
+    </div>
+
+    <div class="footer-column">
+        <h4>Política</h4>
+        <ul>
+            <li>Política</li>
+            <li>El mundo</li>
+            <li>Opinión</li>
+            <li>Lifestyle</li>
+            <li>Edición impresa</li>
+            <li>Club LA NACION</li>
+        </ul>
+    </div>
+</footer>
+<script src="script.js"></script>
+</body>
+
+</html>
